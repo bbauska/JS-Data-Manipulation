@@ -168,9 +168,10 @@ By mastering these techniques, you gain the ability to dynamically create and ap
 To truly grasp these concepts, it's crucial to get hands-on experience. Experiment with the code examples provided, adapt them to your own projects, and explore additional DOM methods and properties.Explanation
 We customise the link behaviour by adding an event listener to the anchor element. By using event.preventDefault() to prevent the default navigation behaviour and perform your desired action instead, such as displaying an alert or navigating programmatically.
 
-Related Articles
+<h3><a href="https://www.tutorialspoint.com/advanced-dom-manipulation-techniques-with-javascript">Related Articles</a></h3>
 
-<a href="https://www.tutorialspoint.com/advanced-javascript-form-validation-techniques">Advanced JavaScript Form Validation Techniques</a>
+<h4><a href="https://www.tutorialspoint.com/advanced-javascript-form-validation-techniques">Advanced JavaScript Form Validation Techniques</a></h4>
+
 
 Advanced Techniques for Debugging JavaScript Applications
 Data Manipulation and Transformation Techniques in JavaScript
